@@ -54,3 +54,4 @@ Similar to "Today's Usage", but displays data collected accross all time of univ
 - Daily reset: By default the today's usage data is reset at 4:20AM, however the user can manually set this time.  
 
 - Reset: The user can reset the total collected data for today, or all time.  
+![blacklist](https://gist.github.com/assets/132270561/1573310f-662f-4492-852c-5c2f447afecf)
