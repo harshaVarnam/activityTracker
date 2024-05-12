@@ -39,7 +39,8 @@ This is a chrome extension that monitors and summarizes the user's web activity.
 ## Today's Usage
 
 Displays the list of websites visited in the last 24 hours along with the time spent on each of them. The time of the currect focused webpage time is also displayed as a badge on the icon of the extension.
-A pie chart showing the time statistics is displayed above the list.
+A pie chart showing the time statistics is displayed above the list.  
+![Alt text](http://github.com/harshaVarnam/activityTracker/todayUsage.png "Optional title")
 
 
 ## All Time Usage page
