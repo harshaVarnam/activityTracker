@@ -34,7 +34,7 @@ This is the Chrome Extension For Tracking Every page's visit time and the time d
 
 # Values
 
-This a chrome extension that monitors and summerizes the user's web activity. The purpose of this extension is to self analyze one's web usage and increase productivity by greylisting/blacklisting the websites that user finds unproductive.
+This is a chrome extension that monitors and summarizes the user's web activity. The purpose of this extension is to self analyze one's web usage and increase productivity by greylisting/blacklisting the websites that user finds unproductive.
 
 ## Today's Usage
 
