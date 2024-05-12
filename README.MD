@@ -1,5 +1,5 @@
 # Steps to set up the extension
-This the Chrome Extension For Tracking Every page visit time and the time duration. The Procedure For Running these files:
+This is the Chrome Extension For Tracking Every page's visit time and the time duration. The Procedure For Running these files:
 
 1. Go to Setting
 2. Find Out Extension Page
